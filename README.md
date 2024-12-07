@@ -1,4 +1,7 @@
 # 💫 About Me:
+Cyber Security Aspirant
+Geek
+AI/ML enthusiast
 I'm currently working on making projects for my cyber security portfolio<br>
 
 
